@@ -53,3 +53,18 @@ Personal financial records are excluded from this repository.
 Samuel Sodipo
 Computer Science Student
 Northumbria University
+
+## Application Screenshots
+
+### Add Transaction
+![Add Transaction](screenshots/add-transaction.png)
+
+### Financial Dashboard
+![Financial Dashboard](screenshots/dashboard.png)
+
+### Spending by Category
+![Spending by Category](screenshots/spending-by-category.png)
+
+### Monthly Spending Analysis
+![Monthly Spending Analysis](screenshots/monthly-spending.png)
+
